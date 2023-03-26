@@ -16,7 +16,7 @@ function solicitudMantenimiento(){
             <FormControl.Label>Favorite framework</FormControl.Label>
             <Input p={2} placeholder="Is it react?" />
             <FormControl.HelperText>
-                We'll keep this between us.
+                We'll keep this between us. hola
             </FormControl.HelperText>
             <FormControl.ErrorMessage>Something is wrong.</FormControl.ErrorMessage>
         
