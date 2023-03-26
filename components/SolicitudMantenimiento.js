@@ -13,7 +13,7 @@ function solicitudMantenimiento(){
            <Heading color={"black"} textAlign="center" fontFamily="body">Solicitud de Mantenimiento Correctivo</Heading>
             <Text  fontSize="md" color={"black"}>Fecha:</Text>
             <DatePicker selected={startDate} onChange={(date) => setStartDate(date)} />
-            <FormControl.Label>Favorite framework</FormControl.Label>
+            <FormControl.Label>Favorite framework is React</FormControl.Label>
             <Input p={2} placeholder="Is it react?" />
             <FormControl.HelperText>
                 We'll keep this between us.
